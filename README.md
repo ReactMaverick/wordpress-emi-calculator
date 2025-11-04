@@ -46,3 +46,5 @@ The EMI calculator provides two input methods:
 2. **Range Sliders:** Users can adjust values using intuitive range sliders, which allows for quick and easy adjustments.
 
 These input options provide flexibility for users to calculate their EMI based on their preferences.
+
+Powered by <a href="https://www.websadroit.com" target="_blank">Websadroit</a>
